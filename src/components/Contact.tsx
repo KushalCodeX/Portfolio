@@ -59,7 +59,7 @@ const Contact = () => {
     formPayload.append("name", formData.name);
     formPayload.append("email", formData.email);
     formPayload.append("message", formData.message);
-    formPayload.append("access_key", process.env.WEB3FORM_ACCESS_KEY);
+    formPayload.append("access_key", "22a6a277-be39-4e2e-add5-3085e8fdbbd9");
 
     try {
       const response = await fetch("https://api.web3forms.com/submit", {
