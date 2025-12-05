@@ -25,14 +25,14 @@ const Contact = () => {
     {
       icon: Mail,
       title: "Email",
-      content: "your.email@example.com",
-      href: "mailto:your.email@example.com",
+      content: "xtrasubham@gmail.com",
+      href: "mailto:xtrasubham@gmail.com",
     },
     {
       icon: Phone,
       title: "Phone",
-      content: "+1 (555) 123-4567",
-      href: "tel:+15551234567",
+      content: "+977 9764456567",
+      href: "tel:+9779764456567",
     },
     {
       icon: MapPin,
